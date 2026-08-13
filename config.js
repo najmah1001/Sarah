@@ -1,13 +1,13 @@
 /* ===== عدّل هذا الملف فقط لتغيير القالب ===== */
 const CONFIG = {
   name: "سارة",
-  question: "ساروتي تحبيني؟",
+  question: " هلو سارة اعرفج تزعلين مني هواي بس اني احبج، تحبيني؟",
   yesText: "أي",
   noText: "لا",
   gif: "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif",
   yesGif: "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif",
-  yesTitle: "أحبج هواية يا سارة ❤️",
-  yesMessage: "كنت أعرف راح تكولين أي 😍",
+  yesTitle: "حبيبت گلبي اني هم احبج واموت عليج",
+  yesMessage: "اذا تعرفين الهدية من منو كولي اسمي 😛",
   backText: "رجوع",
   // رسائل زر «لا» بالترتيب
   noMessages: [
